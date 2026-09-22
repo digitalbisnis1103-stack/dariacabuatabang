@@ -196,6 +196,6 @@ hugBtn.addEventListener("click",()=>{
 
     }
 
-    alert("Makasih ya sayang...Aku bakal berusaha jadi lebih baik🤍");
+    alert("Makasih ya sayang...Aca bakal berusaha jadi lebih baik🤍");
 
 });
